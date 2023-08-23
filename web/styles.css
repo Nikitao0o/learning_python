@@ -16,4 +16,17 @@ h1 {
 .DP-2 {
     font-weight: bold;
     font-family: monospace;
+    text-shadow: green 2px 2px;
+}
+.homework_paragraph{
+    background-color: black;
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: 24px;
+    font-style: oblique;
+    text-shadow: seagreen 1pt 1pt;
+    color: white;
+}
+.raccoon{
+    text-align: center;
 }
