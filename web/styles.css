@@ -1,0 +1,19 @@
+h1 {
+    background: red;
+}
+.DP-1 {
+    background: blue;
+    color: white;
+    font-size: 14pt;
+}
+.P-0 {
+    border: 10px solid yellowgreen;
+    font-size: 15pt;
+    border-radius: 50px;
+    margin-bottom: 80px;
+    padding: 20px;
+}
+.DP-2 {
+    font-weight: bold;
+    font-family: monospace;
+}
